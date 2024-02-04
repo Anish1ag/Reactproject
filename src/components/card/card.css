@@ -1,0 +1,29 @@
+.cardd{
+    margin-top:     10px;
+    margin-left: 50px;
+    height: 60vh;
+    width: 14.6vw;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+}
+.cardd:hover{
+    border: 2px solid green;
+
+}
+.item{
+    font-size: 1.5em;
+
+    display: flex;
+    background-color: rgb(218, 218, 157);
+}
+.ima{
+
+}
+.price{
+    background-color: rgb(212, 154, 83);
+}
+.children{
+background-image:url('./contact.jpg') ;
+color:white ;
+}

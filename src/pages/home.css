@@ -1,0 +1,29 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.flex-container div img:hover{
+    
+    transform: translateY(-10px);
+
+}
+.flex-container div img{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+
+
+}
+.desc{
+    border: 5px solid black;
+    border-radius: 20px;
+}
+.flex-container,.desc{
+        
+    }
+    .flex{
+        display: flex;
+    }
+    .bike{
+        display: flex;
+    }

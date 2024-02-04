@@ -1,0 +1,22 @@
+
+table{
+    margin-left: 20px;
+    margin-top: 90px;
+    border: 1px solid black;
+}
+.arry{
+    margin-top: 10px;
+}
+th{
+    font-size: 1.2em;
+}
+tr{
+    font-size:  2em;
+   
+}
+td:hover{
+    color: blue;
+}
+table,th,tr,td{
+    border: 2px solid black;
+}

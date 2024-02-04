@@ -1,0 +1,154 @@
+/* /* .abcd{
+    background-color: red;
+
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: black;
+    background-color: aquamarine;
+    list-style-type: decimal;
+}
+.b input{
+    font-size: larger;
+    margin-left: 1050px;
+    color: black;
+}
+.b{
+
+    background-color: blueviolet ;
+}
+.d{
+    
+    background-color: rgb(107, 98, 85);
+    padding-bottom: 100px;
+    border: 2px solid black;
+    margin-top: 60px;
+
+    padding-left: 3%;
+
+}
+.c{
+    margin-top: 10px;
+    margin-left: 10px;
+    border-collapse: collapse;
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: rgb(87, 81, 81);
+
+}
+.c,.d{
+    display: inline-block;
+    width: 40%;
+    height: 100%;
+}
+
+.e{
+    margin-top: 0%;
+}
+th{
+    
+    border: 1px solid black;
+}
+tr{
+    width: 400px;
+    border: 1px solid black;
+}
+td{
+    width: 400px;
+    border: 1px solid black;
+}
+table{
+    border:1px solid black ;
+}
+.f{
+    background-color: rgb(136, 120, 32);
+    display: block;
+    margin-top: 10px;
+}
+.f,.g{
+    display: inline-block;
+    width: 48%;
+}
+.g{
+    margin-left: 5px;
+    height: 555px;
+    content: url('./newTest/abc.jpg');  
+}
+.old{
+    display: block;
+    background-color: rgb(51, 50, 48);
+    width: 40%;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 300px;
+    color: white;
+} */
+/* ul li a{
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 27px;
+    
+   
+    
+   
+} */
+/* a:hover{
+    text-decoration: solid;
+    font-size: larger ;
+    color: black;
+    font-size:30px;
+} */
+
+/* li{
+
+    display: inline;
+    padding-left: 79px;
+
+    
+}
+ul{
+    margin-top: 0%;
+    
+}
+.navbar{
+    display: flex;
+    top: 0;
+    position: sticky;
+    background-image: url('./newTest/abc.jpg');
+    background-color: rgb(218, 218, 177);
+    text-align: center;
+    height: 10vh;
+    border: 1px solid whitesmoke;
+    
+    /* margin-left: 400px; */
+    
+}
+/* div img{
+    border-radius: 40px;
+    margin-left: 30px;
+    margin-right: 100px;
+}
+li input{
+    color: red;
+    font-size: larger;
+}
+
+.firstdiv,.seconddiv{
+    display: inline-block;
+}
+.seconddiv{
+    background-color:orangered;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: 2px solid black;
+    height: 150vh;
+    width: 75vw;
+    background-color: rgb(243, 252, 252);
+}
+.child{
+    border: 2px solid black;
+    padding-left: 200px;
+} */  

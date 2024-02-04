@@ -1,0 +1,49 @@
+.navbar{
+    display: flex;
+    top: 0px;
+    position: fixed ;
+    width: 100%;
+    background-image: url('./newTest/abc.jpg');
+    background-color: rgb(218, 218, 177);
+    text-align: center;
+    height: 13vh;
+
+    /* margin-left: 400px; */
+    
+}
+a:hover{
+    
+    
+}
+a{
+   
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: cursive;
+}
+ 
+
+li{
+    display: inline;
+    padding-left: 79px;
+
+    
+}
+li input {
+    border: none;
+    border-radius: 15px ;
+    font-size: 15px;
+   height: 6vh;
+}
+ul{
+    margin-top: 15px;
+    
+} 
+.image img{
+    border-radius: 40px;
+    margin-left: 30px;
+}
+.image2 img{
+    margin-left: 20px;
+}

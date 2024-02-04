@@ -1,0 +1,19 @@
+footer{
+    height: 10vh;
+    padding-top: 9px;
+    margin-top: 5px;    
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+.content{
+    
+    border: 1px solid black;
+    margin-top: 75px;
+}
+.content img{
+    width: 100%;
+}
