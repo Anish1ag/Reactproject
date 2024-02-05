@@ -1,7 +1,7 @@
 import "./footer.css";
 function Footer() {
   return (
-    <div>
+    <div className="foot">
       <footer>
         <p>@All Rights Reserved</p>
         <p>

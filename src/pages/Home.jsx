@@ -11,7 +11,7 @@ function Home() {
           <div className="bike">
             <div>
               <img src="./h2r.jpg" alt="none" height="400vh" width="400vw" />
-              <h2 style={{ marginLeft: "180px" }}>Ninja H2R</h2>
+              <h2 style={{ marginLeft: "40px" }}>Ninja H2R</h2>
             </div>
             <div>
               <img
@@ -21,7 +21,7 @@ function Home() {
                 width="400vw"
                 style={{ marginLeft: "20px" }}
               />
-              <h2 style={{ marginLeft: "180px" }}>Ninja ZX10R</h2>
+              <h2 style={{ marginLeft: "40px" }}>Ninja ZX10R</h2>
             </div>
           </div>
           <div className="bike">
@@ -33,7 +33,7 @@ function Home() {
                 width="400vw"
                 style={{ marginLeft: "px" }}
               />
-              <h2 style={{ marginLeft: "180px" }}>Super Duke 1290</h2>
+              <h2 style={{ marginLeft: "40px" }}>Super Duke 1290</h2>
             </div>
             <div>
               <img
@@ -43,7 +43,7 @@ function Home() {
                 width="400vw"
                 style={{ marginLeft: "20px" }}
               />
-              <h2 style={{ marginLeft: "180px" }}>BMW S1000RR</h2>
+              <h2 style={{ marginLeft: "40px" }}>BMW S1000RR</h2>
             </div>
           </div>
         </div>
@@ -86,7 +86,28 @@ function Home() {
             thrill or a newcomer eager to experience the open road for the first
             time, the Super Bike Emporium invites you to embark on a journey
             like no other—one fueled by passion, precision, and the relentless
-            pursuit of excellence.
+            pursuit of excellence. track days and blistering acceleration.
+            Ducati Panigales, Yamaha R1s, and Kawasaki Ninjas stand shoulder to
+            shoulder, each promising an exhilarating ride like no other. Across
+            the room, adventure and touring bikes beckon with promises of epic
+            journeys and boundless exploration. BMW GS series, Honda Africa
+            Twins, and Triumph Tigers stand ready to conquer any terrain, their
+            rugged elegance hinting at the adventures that await beyond the
+            horizon. For those who crave the retro charm and timeless appeal of
+            classic motorcycles, a dedicated section pays homage to icons of the
+            past. Triumph Bonnevilles, Harley-Davidson Sportsters, and Moto
+            Guzzi V7s evoke a sense of nostalgia, their timeless designs
+            capturing the essence of motorcycling's rich heritage. But the Super
+            Bike Emporium is more than just a showroom—it's a haven for
+            enthusiasts, a gathering place where riders can share stories, swap
+            tips, and immerse themselves in the vibrant culture of two-wheeled
+            freedom. Knowledgeable staff members stand ready to assist, offering
+            expert guidance and personalized recommendations to help you find
+            the perfect ride for your needs. Whether you're a seasoned rider
+            seeking the ultimate thrill or a newcomer eager to experience the
+            open road for the first time, the Super Bike Emporium invites you to
+            embark on a journey like no other—one fueled by passion, precision,
+            and the relentless pursuit of excellence.
           </div>
         </div>
       </div>

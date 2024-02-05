@@ -8,12 +8,7 @@ footer{
     background-color: aquamarine;
     border: 2px solid black;
 }
-
-.content{
+.foot{
     
-    border: 1px solid black;
-    margin-top: 75px;
 }
-.content img{
-    width: 100%;
-}
+
